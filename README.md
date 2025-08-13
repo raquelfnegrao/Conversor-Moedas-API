@@ -15,7 +15,7 @@
 
 - **Será exibido o resultado**  
   
-  ## Como rodar localmente
+## 📂 Como rodar localmente
 
 1. Clone este repositório:  
    ```
