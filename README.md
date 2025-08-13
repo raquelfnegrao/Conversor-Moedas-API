@@ -21,3 +21,27 @@
    ```
    git clone https://github.com/raquelfnegrao/mini-projetos/ConversorMoedaAPI.git
    cd mini-projetos/ConversorMoedaAPI
+   
+## 📂  Capturas de tela
+
+- **Tela inicial já configurada sempre para mostrar Real para Dolar** 
+
+![Busca de clima](captura%20de%20tela/Captura%20de%20tela1.png)
+
+---
+
+- **Resultado Real para Dolar** 
+
+![Resultado exibido](captura%20de%20tela/Captura%20de%20tela2.png)
+
+---
+
+- **Resultado Dolar para Real** 
+
+![Resultado exibido](captura%20de%20tela/Captura%20de%20tela3.png)
+
+---
+
+- **Resultado Yuan para Iene** 
+
+![Resultado exibido](captura%20de%20tela/Captura%20de%20tela4.png)
