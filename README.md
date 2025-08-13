@@ -13,7 +13,20 @@
 
 - **Clique na opção de moeda que deseja saber a cotação**
 
-- **Será exibido o resultado**  
+- **Será exibido o resultado**
+
+## 📂 Quais moedas foram colocadas:
+
+- USD - Dólar
+- EUR - Euro
+- BRL - Real
+- GBP - Libra
+- JPY - Iene
+- CAD - Dólar Canadense
+- AUD - Dólar Australiano
+- CHF - Franco Suíço
+- CNY - Yuan
+- ARS - Peso Argentino
   
 ## 📂 Como rodar localmente
 
@@ -36,7 +49,7 @@
 
 ---
 
-- **Resultado Dolar para Real** 
+- **Resultado Dolar para Euro** 
 
 ![Resultado exibido](captura%20de%20tela/Captura%20de%20tela3.png)
 
