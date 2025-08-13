@@ -5,7 +5,7 @@
 
 ---
 
-## 📂 O que você pode fazer
+## 📂 O que você pode fazer:
 
 - **Digite o valor que deseja converter** 
 
@@ -28,14 +28,14 @@
 - CNY - Yuan
 - ARS - Peso Argentino
   
-## 📂 Como rodar localmente
+## 📂 Como rodar localmente:
 
 1. Clone este repositório:  
    ```
    git clone https://github.com/raquelfnegrao/mini-projetos/ConversorMoedaAPI.git
    cd mini-projetos/ConversorMoedaAPI
    
-## 📂  Capturas de tela
+## 📂  Capturas de tela:
 
 - **Tela inicial já configurada sempre para mostrar Real para Dolar** 
 
